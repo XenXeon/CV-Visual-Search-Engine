@@ -33,11 +33,11 @@ The goal is to investigate which **computer vision descriptors** best capture vi
 
 | Descriptor | Visualization |
 |-----------|---------------|
-| Global Color Histogram | ![](assets/descriptor_visuals/hist.png) |
-| Edge Orientation Histogram (EOH) | ![](assets/descriptor_visuals/EOH.png) |
-| Local Binary Patterns (LBP) | ![](assets/descriptor_visuals/lbp.png) |
-| SIFT + BoVW | ![](assets/descriptor_visuals/SIFT.png) |
-| Spatial Grid (Color + Texture) | ![](assets/descriptor_visuals/sp_grid.png) |
+| Global Color Histogram | ![](assets/hist.png) |
+| Edge Orientation Histogram (EOH) | ![](assets/EOH.png) |
+| Local Binary Patterns (LBP) | ![](assets/lbp.png) |
+| SIFT + BoVW | ![](assets/SIFT.png) |
+| Spatial Grid (Color + Texture) | ![](assets/sp_grid.png) |
 
 ---
 
