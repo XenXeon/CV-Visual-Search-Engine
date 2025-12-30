@@ -1,0 +1,11 @@
+# Mark documentation and generated files as documentation
+*.html linguist-documentation
+*.css linguist-documentation
+*.js linguist-documentation
+
+# Mark generated reports as generated
+report_visuals/* linguist-generated
+assets/* linguist-generated
+
+# Ensure Python is detected
+*.py linguist-detectable
