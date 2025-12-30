@@ -188,4 +188,4 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue in this repository.
+For questions or feedback, please open an issue in this repository. Or contact me directly via email: tahir.hasan.thk@gmail.com
